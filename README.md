@@ -6,7 +6,7 @@
 ## Screenshots
 | الصفحة الرئيسية | صفحة الاحصائيات |
 | --- | --- |
-| ![Home](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/home.png?raw=true) | ![Stats](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/stats.png?raw=true) |
+| ![home](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/home.png?raw=true) | ![stats](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/stats.png?raw=true) |
 
 ## المميزات
 - ✅ اضافة وتعديل وحذف العادات
