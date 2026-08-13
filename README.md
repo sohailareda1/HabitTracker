@@ -1,14 +1,28 @@
 # HabitTracker 💜
 
-تطبيق تتبع العادات اليومية
+تطبيق تتبع العادات اليومية لاندرويد
+"Build your Habit step by step"
 
-### المميزات
-- اضافة وتعديل وحذف العادات
-- ستريك مع الوان: 3 ايام برتقاني, 7 اخضر, 30 دهبي
-- منبه يومي لكل عادة
-- علامة ✓ لما تخلصي اليوم
+## Screenshots
+| الصفحة الرئيسية | صفحة الاحصائيات |
+| --- | --- |
+| ![Home](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/home.png?raw=true) | ![Stats](https://github.com/sohailareda1/HabitTracker/blob/main/screenshots/stats.png?raw=true) |
 
-### التقنيات
-Kotlin + Room + AlarmManager + RecyclerView
+## المميزات
+- ✅ اضافة وتعديل وحذف العادات
+- ✅ ستريك مع الوان: 3 ايام برتقاني, 7 اخضر, 30 دهبي
+- ✅ علامة ✓ لما تخلصي اليوم
+- ✅ منبه يومي لكل عادة
+- ✅ صفحة احصائيات: Total, Longest Streak, Done Today
+- ✅ تصميم Material Design بالبنفسجي
 
-Made with ❤️ in Android Studio
+## التقنيات المستخدمة
+`Kotlin` `Room Database` `RecyclerView` `AlarmManager` `Material Design`
+
+## كيفية التشغيل
+1. اعملي Clone للـ Repo
+2. افتحيه على Android Studio
+3. شغليه على الموبايل
+
+---
+Made with ❤️ by sohailareda1
